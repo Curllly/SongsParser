@@ -1,0 +1,17 @@
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\SongsParser.exe
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\SongsParser.deps.json
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\SongsParser.runtimeconfig.json
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\SongsParser.dll
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\SongsParser.pdb
+D:\Study\ИС\SongsParser\SongsParser\bin\Debug\net6.0\HtmlAgilityPack.dll
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.csproj.AssemblyReference.cache
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.AssemblyInfoInputs.cache
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.AssemblyInfo.cs
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.csproj.CoreCompileInputs.cache
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.csproj.CopyComplete
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.dll
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\refint\SongsParser.dll
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.pdb
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\SongsParser.genruntimeconfig.cache
+D:\Study\ИС\SongsParser\SongsParser\obj\Debug\net6.0\ref\SongsParser.dll

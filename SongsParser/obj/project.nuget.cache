@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVnc+Io/xTDa3QPMWzQCzbl822xbcbkxNwWJ712DeBiwQn+k69+T+k4hfkKHK0UhrdJkNOg+K8aWXctcXaL8Vw==",
+  "success": true,
+  "projectFilePath": "D:\\Study\\ИС\\SongsParser\\SongsParser\\SongsParser.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pavel\\.nuget\\packages\\htmlagilitypack\\1.11.46\\htmlagilitypack.1.11.46.nupkg.sha512"
+  ],
+  "logs": []
+}
